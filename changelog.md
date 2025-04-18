@@ -1,3 +1,6 @@
+# 1.0.0
+- Release
+- Reordered patches for compatibility with Chemical Propulsion 1.0.0
 # 0.1.0
 - Pre-release
 - Patches split from:
