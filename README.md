@@ -25,6 +25,7 @@ The fixed bipropellant mixture ratios of the new possible mixtures are as follow
 ### Required
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
+- [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
 - [Chemical Core (1.0.0)](https://github.com/CharleRoger/ChemicalCore)
 ### Supported
 - [Chemical Propulsion (1.0.0)](https://github.com/CharleRoger/ChemicalPropulsion)
