@@ -22,17 +22,15 @@ The fixed bipropellant mixture ratios of the new possible mixtures are as follow
   - 3 LqdHydrogen / 1 LqdFluorine
 
 ## Dependencies
-### Required
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
 - [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
 - [Chemical Core (1.0.0)](https://github.com/CharleRoger/ChemicalCore)
-### Supported
-- [Chemical Propulsion (1.0.0)](https://github.com/CharleRoger/ChemicalPropulsion)
-- [Chemical Storage (0.4.0)](https://github.com/CharleRoger/ChemicalStorage)
 
 ## Compatibility
-Backwards compatibility is not guaranteed for any v0.x, use at your own risk. If you find any other mod to be incompatible with this one, please let me know via a github issue.
+Chemical Exotics adds content to the following mods:
+- [Chemical Propulsion (1.0.2)](https://github.com/CharleRoger/ChemicalPropulsion)
+- [Chemical Storage (0.4.0)](https://github.com/CharleRoger/ChemicalStorage)
 
 ## License
 Distributed under the GNU General Public License.
