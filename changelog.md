@@ -1,3 +1,5 @@
+# 1.0.1
+- Fixed spelling of Fluorine...
 # 1.0.0
 - Release
 - Reordered patches for compatibility with Chemical Propulsion 1.0.0
