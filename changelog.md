@@ -1,5 +1,6 @@
 # 1.1.0
 - Updated for compatibility with Chemical Propulsion 1.1.0
+- Added support for Near Future Exploration's switchable tanks
 # 1.0.1
 - Fixed spelling of Fluorine...
 # 1.0.0
