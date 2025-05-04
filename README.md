@@ -29,7 +29,7 @@ The fixed bipropellant mixture ratios of the new possible mixtures are as follow
 
 ## Compatibility
 Chemical Exotics adds content to the following mods:
-- [Chemical Propulsion (1.0.2)](https://github.com/CharleRoger/ChemicalPropulsion)
+- [Chemical Propulsion (1.1.0)](https://github.com/CharleRoger/ChemicalPropulsion)
 - [Chemical Storage (0.4.0)](https://github.com/CharleRoger/ChemicalStorage)
 
 ## License
