@@ -1,4 +1,6 @@
 # Chemical Exotics
+IMPORTANT: This mod is now deprecated, having been absorbed into ChemicalPropulsion/Extras/ChemicalPropulsionExotics as of Chemical Propulsion 1.4.0.
+
 An extension pack for Chemical Technologies which adds exotic propellants:
 - Pentaborane - Can be used in place of Hydrazine as a hypergolic fuel or Kerosene as a jet fuel
 - Diborane - Can be used in place of LqdMethane as a cryogenic fuel
